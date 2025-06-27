@@ -19,3 +19,16 @@ Which players offer the best "bang for your buck"
  ## Dataset 2: Advanced statistics
  ## Dataset 3: Adjusted Shooting
  ## Dataset 4: Player Salary Data
+
+
+
+# MAIN QUESTIONS  (For finding outliers, can do so visually, or use skicit library to find residuals and sort accordingly. )
+    # Which players are most efficient per dollar
+    # Which players offer the best usage:salary ratio. 
+    # Best Shooters/Defensive/Offensive/Passers Per dollar. 
+    # Which players are the most overpaid/underpaid per overall performance. 
+    # Which Positions provide the most impact per dollar
+
+
+# After Analysis
+    # Decide Most Vital statistics to determine value and calculate a new metric based on salary and these performance stats. 
