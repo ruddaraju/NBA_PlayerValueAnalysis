@@ -22,12 +22,18 @@ Which players offer the best "bang for your buck"
 
 
 
-# MAIN QUESTIONS  (For finding outliers, can do so visually, or use skicit library to find residuals and sort accordingly. )
-    # Which players are most efficient per dollar
-    # Which players offer the best usage:salary ratio. 
-    # Best Shooters/Defensive/Offensive/Passers Per dollar. 
-    # Which players are the most overpaid/underpaid per overall performance. 
+# MAIN QUESTIONS  (For finding outliers, can do so visually, or use skicit library to find residuals and sort accordingly.)
+
+    
+    # Can we cluster player types and determine the value of each category (Shooting, Scoring, Defending, Passing)
+        # Will use scikit learn to classify players using kmeans clustering. From there can analyze to find different player groups. If not present, then can do manual classification
+
+    # Which players offer the best usage:salary ratio. Which players are the most efficient per dollar
+    # How are bench/low volume high efficency players valued in the nba. (TJ McConel)
+
     # Which Positions provide the most impact per dollar
+
+    # Who are the most undervalued/overvalued players in the nba
 
 
 # After Analysis
