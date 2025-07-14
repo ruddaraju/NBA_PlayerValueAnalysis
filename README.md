@@ -95,6 +95,10 @@
   
 ### Part 3
 
+- After training a model using skicit learn and RidgeCV, I was able to acheive a R^2 score of 0.65. After this I plotted the comparisons between my predictions and the actuall salary. I also included the residual plot to better understand possible baises in my prediction model.
+
+  
+
 
 
 
